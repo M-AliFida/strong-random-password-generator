@@ -2,7 +2,7 @@
 
 This programme generates a strong, random password. The password is a combination of words, numbers and special characters. The password generator makes use of the **secrets** Python module. 
 
-You can learn more about the secrets module [here:](https://docs.python.org/3/library/secrets.html)
+You can learn more about the secrets module [here](https://docs.python.org/3/library/secrets.html)
 
 TL;DR: the secrets module can be used to generate 'cryptographically strong random numbers'. How exactly? It's a *secret* ;).
 
