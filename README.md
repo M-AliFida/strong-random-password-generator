@@ -1,6 +1,6 @@
 # Strong and Random Password Generator
 
-This programme generates a strong, random password. The password is a combination of words, numbers, special characters. The password generator makes use of the **secrets** Python module. 
+This programme generates a strong, random password. The password is a combination of words, numbers and special characters. The password generator makes use of the **secrets** Python module. 
 
 You can learn more about the secrets module [here:](https://docs.python.org/3/library/secrets.html)
 
