@@ -1,4 +1,4 @@
-# This program generates will generate a strong, random password 
+# This programme generates a strong, random password 
 # This is done using a combination of words, numbers, special characters.
 
 import secrets # Approprite for this project as it provides cryptographically strong random numbers.
